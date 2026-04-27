@@ -6,3 +6,4 @@ AQUÍ SE ESCRIBEN LOS TRABAJOS PENDIENTES QUE SE LE DEBEN HACER A ESTE PROYECTO:
 4. añadir en que estaciones se puede gestionar tramites administrativos de la civica(sacar nueva civica, cambiarlas, reportarla,etc)
 5. añadir los canales oficiales del metro para que el usuario realice tramites si lo requiere o resuelve dudas
 6. investigar como mejorar la interactividad del mapa ( de forma gratuita sin que haya que integrar una API para de google maps)
+7. consultar en tiempo real sobre novedades e interrupciones en los transportes del STIVA
